@@ -1,0 +1,12 @@
+requirements.txt for the Delivery Time Prediction App
+--- Web Application Framework ---
+streamlit         # The core framework for building and running the interactive web app
+
+--- Machine Learning & Data Handling ---
+scikit-learn      # For using the machine learning model
+pandas            # For data manipulation (creating the DataFrames for prediction)
+numpy             # For numerical operations (generating data ranges for charts)
+joblib            # For loading the pre-trained .pkl model file
+
+--- Data Visualization ---
+altair            # For creating the interactive charts in the app
