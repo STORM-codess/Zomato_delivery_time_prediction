@@ -26,20 +26,10 @@ A web application built with **Streamlit** that predicts food delivery time base
 - **Altair:** For declarative and interactive visualizations.
 
 ---
+.
+├── delivery_app.py         # Main Streamlit application
+├── delivery_time_model.pkl # Pre-trained ML model
+├── requirements.txt        # Python dependencies
+├── README.md               # Project description and instructions
+└── app_screenshot.png      # Screenshot of the running app
 
-## Setup and Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- `pip` package manager
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/delivery-time-predictor.git
-cd delivery-time-predictor
-
-python -m venv venv
-.\venv\Scripts\activate
-
-3. Install Dependencies
-pip install -r requirements.txt
