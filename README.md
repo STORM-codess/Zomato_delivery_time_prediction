@@ -37,3 +37,9 @@ A web application built with **Streamlit** that predicts food delivery time base
 ```bash
 git clone https://github.com/your-username/delivery-time-predictor.git
 cd delivery-time-predictor
+
+python -m venv venv
+.\venv\Scripts\activate
+
+3. Install Dependencies
+pip install -r requirements.txt
