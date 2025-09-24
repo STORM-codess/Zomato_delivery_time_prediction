@@ -1,4 +1,4 @@
-# 🚲 Delivery Time Prediction App
+#  Delivery Time Prediction App
 
 A web application built with **Streamlit** that predicts food delivery time based on several features. The app also provides **interactive visualizations** to help understand the impact of each feature on the final prediction.
 
@@ -26,10 +26,3 @@ A web application built with **Streamlit** that predicts food delivery time base
 - **Altair:** For declarative and interactive visualizations.
 
 ---
-.
-├── delivery_app.py         # Main Streamlit application
-├── delivery_time_model.pkl # Pre-trained ML model
-├── requirements.txt        # Python dependencies
-├── README.md               # Project description and instructions
-└── app_screenshot.png      # Screenshot of the running app
-
